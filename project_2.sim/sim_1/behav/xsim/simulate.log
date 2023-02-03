@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+R0 -  0
+R1 - 10
+R2 - 20
+R3 - 25
+R4 - 30
+R5 - 55
+$finish called at time : 300 ns : File "C:/Users/bms_p/Desktop/project_2/project_2.srcs/sim_1/new/pipe_mips32_tb.v" Line 61
