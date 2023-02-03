@@ -79,7 +79,7 @@ Converted behavioral to structural description using yosys
 
 And verified testbench results on ep wave i.e on eda playground
 
-![Screenshot (31)](https://user-images.githubusercontent.com/82768295/216568369-0ee5e1d7-6baf-4f31-a414-b04ea3bfad5d.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/82768295/216602679-1945d847-81f6-4129-be84-df2c6ac82cb0.png)
 
 
 # Hazards
