@@ -1,5 +1,5 @@
 # mips32_pipelining
-#Stages of Pipelining
+Stages of Pipelining
 
 
 ![image](https://user-images.githubusercontent.com/82768295/216562593-bd36dfdc-a194-4822-b843-0a4a9948561a.png)
